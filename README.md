@@ -1,3 +1,5 @@
-University of North Carolina at Charlotte. <br />
-Expected graduation date 05/2023 <br />
-Interested in pursuing the field of Bioinformatics. 
+- 👋 Hi, I’m @speercolin
+- 👀 I’m interested in pursuing the field of Bioinformatics!
+- 🌱 I’m currently learning bash script, python, and git!
+- 💞️ I’m looking to collaborate on any projects relating to Bioinformatics and medicine!
+- 📫 How to reach me speercolin06@gmail.com or https://www.linkedin.com/in/speercolin/
