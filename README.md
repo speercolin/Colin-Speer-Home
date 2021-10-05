@@ -1,3 +1,3 @@
-Interested in pursuing the field of Bioinformatics. <br />
+University of North Carolina at Charlotte. <br />
 Expected graduation date 05/2023 <br />
-University of North Carolina at Charlotte.
+Interested in pursuing the field of Bioinformatics. 
